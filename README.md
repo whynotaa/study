@@ -21,3 +21,6 @@ git 설치
 
   git add . # . 의 의미가 전부라는 의미, git add ~ 어떤파일을 추가해줄지 찾아본다는 의미
   
+  git commit -m "first commit" #git 히스토리를 만들어줌
+
+  git remote add origin https://github.com/whynotaa/"  ".git   # 
