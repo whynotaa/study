@@ -39,3 +39,16 @@ git 설치
 
 4. git 을 새로고침하면 올려짐을 확인할수 있음
 
+<코드 바꾸기>
+
+1. 수정된 파일 터미널
+2. git init 이 이미 되어있다면 생략
+3. git add .
+ ( git status  # 결과는 modified 나올것임)
+5. git commit -m "second commit"
+6. git push origin master 
+
+
+
+
+
